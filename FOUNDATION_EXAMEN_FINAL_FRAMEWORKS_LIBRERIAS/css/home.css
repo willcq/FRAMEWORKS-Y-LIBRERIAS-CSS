@@ -1,0 +1,38 @@
+body{
+  background: url(../img/comida010.jpg);
+}
+.logo-img{
+  width: 90%;
+}
+li{
+  border: 1px solid black;
+}
+a{
+  margin:0 auto;
+}
+img{
+width: 100%;
+}
+
+.comentario{
+  border: 1px solid red;
+}
+
+div .secondary.callout.text-center{
+  min-height: 242px;
+}
+.titulop{
+  background-color: rgba(255, 0, 0, 0.5);
+}
+.parte1{
+  background-color: rgba(50, 115, 220, 0.3);
+}
+.parte2{
+  background-color: #283593;
+}
+.comentario1{
+  background-color: #aa00ff;
+}
+.comentario2{
+  background-color: #ba68c8;
+}
